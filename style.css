@@ -1,0 +1,13 @@
+body{
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  background-color: #343536;
+}
+svg,img{
+  display: block;
+  max-height: 100vh;
+}
+svg:{
+  position: relative;
+}
